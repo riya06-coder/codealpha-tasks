@@ -25,3 +25,16 @@ A classic terminal-based Hangman game implemented in Python. The player tries to
 ```bash
 python hangman.py
 
+
+## 🚀 Task 2: Simple Chatbot 💬
+
+**Description:**  
+A basic rule-based chatbot that interacts with users through simple text input.
+
+**Features:**
+- Responds to predefined keywords and phrases
+- Handles casual greetings and small talk
+
+**How to Run:**
+```bash
+python chatbot.py
