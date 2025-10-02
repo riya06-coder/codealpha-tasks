@@ -43,3 +43,6 @@ while tries > 0:
 # Game over
 if tries == 0:
     print("You lose! The word was:", word)
+
+# fix: pause the window from closing
+input("\nPress Enter to exit...")
