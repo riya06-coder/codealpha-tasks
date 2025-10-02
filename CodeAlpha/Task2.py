@@ -32,3 +32,6 @@ def simple_chatbot():
 
 # Call the function to start the chatbot
 simple_chatbot()
+
+# fix: pause the window from closing
+input("\nPress Enter to exit...")
